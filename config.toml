@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://hugosite-ezt.pages.dev/'
+languageCode = 'ja-jp'
 theme = "moemoe"
-title = 'My New Hugo Site'
+title = '萌え萌えカンパニー'
 
 [menu]
 [[menu.main]]
