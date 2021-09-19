@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = "moemoe"
+title = 'My New Hugo Site'
+
+[menu]
+[[menu.main]]
+identifier = 'company'
+title = 'Company'
+url = '/company.html'
+
+[[menu.main]]
+identifier = 'news'
+title = 'News'
+url = '/news.html'
+
+[[menu.main]]
+identifier = 'works'
+title = 'Works'
+url = '/works.html'
+
+[[menu.main]]
+identifier = 'staff'
+title = 'Staff'
+url = '/staff.html'
+
+[[menu.main]]
+identifier = 'contact'
+title = 'Contact'
+url = '/contact.html'
