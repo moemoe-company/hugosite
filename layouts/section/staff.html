@@ -1,0 +1,32 @@
+{{ define "main" -}}
+<div class="staff-list">
+	<div class="staff-container">
+		<h1>moemoe company STAFF</h1>
+		<ul id="staff-l">
+			{{ range .Site.Params.staffs }}
+			<li>
+				<div class="stafficon-container">
+					<img class="stafficon" src="{{ .icon }}"></div>
+				<div class="description">
+					<div class="staff-name-box">
+						<p class="staff-name">{{ .name }}</p>
+					</div>
+					<div class="sns-box">
+						{{- with .twitter -}}
+						<a href="{{ . }}" target="_blank"><img class="sns-icon" src="/img/Twitter_logo1.png"></a>
+						{{- end -}}
+						{{- with .website -}}
+						<a href="{{ . }}" target="_blank"><img class="sns-icon" src="/img/home.png"></a>
+						{{- end -}}
+					</div>
+					<div class="description-des">
+						<p class="staff-role">役職：{{ .role }}</p>
+						<p class="staff-description">{{ .description }}</p>
+					</div>
+				</div>
+			</li>
+			{{- end }}
+		</ul>
+	</div>
+</div>
+{{- end }}

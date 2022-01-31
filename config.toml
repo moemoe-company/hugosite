@@ -22,9 +22,66 @@ url = '/works.html'
 [[menu.main]]
 identifier = 'staff'
 title = 'Staff'
-url = '/staff.html'
+url = '/staff/'
 
 [[menu.main]]
 identifier = 'contact'
 title = 'Contact'
 url = '/contact.html'
+
+[params]
+[[params.staffs]]
+name = "だびで"
+icon = "/img/davide.jpg"
+twitter = "https://twitter.com/Vern_rvSaki"
+website = "https://rnvneko.info/"
+role = "CHO"
+description = "創設者兼チーフ平社員オフィサー"
+
+[[params.staffs]]
+name = "p-hone（オタク）"
+icon = "/img/phone.png"
+twitter = "https://twitter.com/p__hone"
+website = "https://p-hone.info/"
+role = "CTO"
+description = "チーフツンデレオフィサー"
+
+[[params.staffs]]
+name = "佐倉（オタク）"
+icon = "/img/sakura.jpg"
+twitter = "https://twitter.com/sakusakuunagi"
+website = "https://sakusakuunagi.hatenadiary.jp/"
+role = "CFO"
+description = "チーフ不良オフィサー"
+
+[[params.staffs]]
+name = "nemu"
+icon = "/img/no_image.png"
+twitter = ""
+website = ""
+role = "CSO"
+description = "チーフ先生オフィサー"
+
+[[params.staffs]]
+name = "すばる（オタク）"
+icon = "/img/subaru.jpg"
+twitter = "https://twitter.com/MUR_SBR"
+website = ""
+role = "CEO"
+description = "チーフエロゲオフィサー"
+
+[[params.staffs]]
+name = "ライン（オタク）"
+icon = "/img/line.png"
+twitter = "https://twitter.com/parudo63"
+website = "https://note.com/parudo63/"
+role = "CDO"
+description = "チーフDJオフィサー"
+
+[[params.staffs]]
+name = "highland（オタク）"
+icon = "/img/highland.png"
+twitter = "https://twitter.com/highland_sh"
+website = "https://highland.hatenablog.com/"
+role = "CWO"
+description = "チーフライターオフィサー"
