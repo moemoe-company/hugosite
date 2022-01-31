@@ -7,17 +7,17 @@ title = '萌え萌えカンパニー'
 [[menu.main]]
 identifier = 'company'
 title = 'Company'
-url = '/company.html'
+url = ''
 
 [[menu.main]]
 identifier = 'news'
 title = 'News'
-url = '/news.html'
+url = ''
 
 [[menu.main]]
 identifier = 'works'
 title = 'Works'
-url = '/works.html'
+url = '/works/'
 
 [[menu.main]]
 identifier = 'staff'
@@ -27,7 +27,7 @@ url = '/staff/'
 [[menu.main]]
 identifier = 'contact'
 title = 'Contact'
-url = '/contact.html'
+url = ''
 
 [params]
 [[params.staffs]]
@@ -85,3 +85,11 @@ twitter = "https://twitter.com/highland_sh"
 website = "https://highland.hatenablog.com/"
 role = "CWO"
 description = "チーフライターオフィサー"
+
+[[params.works]]
+name = "アニメタイトル表示くんべーた"
+url = "http://animetitle.moemoe.company/"
+date = "2021/06/27"
+author = "rnvneko"
+image = "/img/animetitle2.jpg"
+description = "西暦年とクールを指定するとその時期のアニメタイトルが羅列されるツールです。"
