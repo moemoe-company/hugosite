@@ -8,6 +8,7 @@ body {
  width: 100%;
  padding: 0;
  margin: 0;
+ background-color: #dbefff;
 }
 
 p {
@@ -17,7 +18,6 @@ p {
 footer {
  width: 100%;
  text-align: center;
- background-color: #dbefff;
 }
 
 img {
@@ -25,16 +25,14 @@ img {
 }
 
 .container {
- background-color: #dbefff;
  text-align: center;
- width: 100%;
- margin: 0;
+ max-width: 800px;
+ margin: 0 auto;
  text-shadow:2px 0 0 white;
- max-width: 100%;
 }
 
 .mainicon {
- height: 150px;
+  width: 18vw;
 }
 
 .pretty{
