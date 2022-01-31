@@ -33,6 +33,7 @@ img {
 
 .mainicon {
   width: 18vw;
+  max-width: 150px;
 }
 
 .pretty{
