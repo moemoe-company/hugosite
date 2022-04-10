@@ -88,7 +88,7 @@ description = "チーフライターオフィサー"
 
 [[params.works]]
 name = "アニメタイトル表示くんべーた"
-url = "http://animetitle.moemoe.company/"
+url = "https://anime-title-kun.herokuapp.com/"
 date = "2021/06/27"
 author = "rnvneko"
 image = "/img/animetitle2.jpg"
