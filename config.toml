@@ -94,6 +94,38 @@ website = "http://www.ukitouchtypist.org/"
 role = ""
 description = ""
 
+[[params.staffs]]
+name = "ぽえむ"
+icon = "/img/no_image.png"
+twitter = "https://twitter.com/Z04Tk"
+website = ""
+role = ""
+description = ""
+
+[[params.staffs]]
+name = "チコビクトリー"
+icon = "/img/no_image.png"
+twitter = "https://twitter.com/DBLFACE"
+website = ""
+role = ""
+description = ""
+
+[[params.staffs]]
+name = "ウニニニニードル"
+icon = "/img/no_image.png"
+twitter = "https://twitter.com/unininini_doru"
+website = ""
+role = ""
+description = ""
+
+[[params.staffs]]
+name = "wind"
+icon = "/img/no_image.png"
+twitter = "https://twitter.com/wind_0180"
+website = ""
+role = ""
+description = ""
+
 [[params.works]]
 name = "アニメタイトル表示くんべーた"
 url = "https://anime-title-kun.herokuapp.com/"
