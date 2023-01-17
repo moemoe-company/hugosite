@@ -31,7 +31,7 @@ url = ''
 
 [params]
 [[params.staffs]]
-name = "だびで"
+name = "だびで（オタク）"
 icon = "/img/davide.jpg"
 twitter = "https://twitter.com/Vern_rvSaki"
 website = "https://rnvneko.info/"
@@ -85,6 +85,14 @@ twitter = "https://twitter.com/highland_sh"
 website = "https://highland.hatenablog.com/"
 role = "CWO"
 description = "チーフライターオフィサー"
+
+[[params.staffs]]
+name = "園田うき"
+icon = "/img/ukitouchtypist.png"
+twitter = "https://twitter.com/ukitouchtypist"
+website = "http://www.ukitouchtypist.org/"
+role = ""
+description = ""
 
 [[params.works]]
 name = "アニメタイトル表示くんべーた"
