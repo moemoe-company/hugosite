@@ -31,7 +31,7 @@ url = ''
 
 [[params.staffs]]
 description = "創設者兼チーフ平社員オフィサー"
-icon = "/img/works/davide.jpg"
+icon = "/img/staff/davide.jpg"
 name = "だびで（オタク）"
 role = "CHO"
 twitter = "https://twitter.com/Vern_rvSaki"
@@ -39,7 +39,7 @@ website = "https://rnvneko.info/"
 
 [[params.staffs]]
 description = "チーフツンデレオフィサー"
-icon = "/img/works/phone.png"
+icon = "/img/staff/phone.png"
 name = "p-hone（オタク）"
 role = "CTO"
 twitter = "https://twitter.com/p__hone"
@@ -47,7 +47,7 @@ website = "https://p-hone.info/"
 
 [[params.staffs]]
 description = "チーフ不良オフィサー"
-icon = "/img/works/sakura.jpg"
+icon = "/img/staff/sakura.jpg"
 name = "佐倉（オタク）"
 role = "CFO"
 twitter = "https://twitter.com/sakusakuunagi"
@@ -55,7 +55,7 @@ website = "https://sakusakuunagi.hatenadiary.jp/"
 
 [[params.staffs]]
 description = "チーフ先生オフィサー"
-icon = "/img/works/no_image.png"
+icon = "/img/staff/no_image.png"
 name = "nemu"
 role = "CSO"
 twitter = ""
@@ -63,7 +63,7 @@ website = ""
 
 [[params.staffs]]
 description = "チーフエロゲオフィサー"
-icon = "/img/works/subaru.jpg"
+icon = "/img/staff/subaru.jpg"
 name = "すばる（オタク）"
 role = "CEO"
 twitter = "https://twitter.com/MUR_SBR"
@@ -71,7 +71,7 @@ website = ""
 
 [[params.staffs]]
 description = "チーフDJオフィサー"
-icon = "/img/works/line.png"
+icon = "/img/staff/line.png"
 name = "ライン（オタク）"
 role = "CDO"
 twitter = "https://twitter.com/parudo63"
@@ -79,7 +79,7 @@ website = "https://note.com/parudo63/"
 
 [[params.staffs]]
 description = "チーフライターオフィサー"
-icon = "/img/works/highland.png"
+icon = "/img/staff/highland.png"
 name = "highland（オタク）"
 role = "CWO"
 twitter = "https://twitter.com/highland_sh"
@@ -87,7 +87,7 @@ website = "https://highland.hatenablog.com/"
 
 [[params.staffs]]
 description = ""
-icon = "/img/works/ukitouchtypist.png"
+icon = "/img/staff/ukitouchtypist.png"
 name = "園田うき"
 role = ""
 twitter = "https://twitter.com/ukitouchtypist"
@@ -95,7 +95,7 @@ website = "http://www.ukitouchtypist.org/"
 
 [[params.staffs]]
 description = ""
-icon = "/img/works/no_image.png"
+icon = "/img/staff/no_image.png"
 name = "ぽえむ"
 role = ""
 twitter = "https://twitter.com/Z04Tk"
@@ -103,7 +103,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/works/no_image.png"
+icon = "/img/staff/no_image.png"
 name = "チコビクトリー"
 role = ""
 twitter = "https://twitter.com/DBLFACE"
@@ -111,7 +111,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/works/no_image.png"
+icon = "/img/staff/no_image.png"
 name = "ウニニニニードル"
 role = ""
 twitter = "https://twitter.com/unininini_doru"
@@ -119,7 +119,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/works/no_image.png"
+icon = "/img/staff/no_image.png"
 name = "wind"
 role = ""
 twitter = "https://twitter.com/wind_0180"
