@@ -15,8 +15,8 @@
 	<div class="container">
 		<ul id="tab">
 			<li><a href="/"><img class="mainicon" src="/img/moemoecompany.png"></a></li>
-			{{ range sort .Site.Menus.main "order" "asc" }}
-			<li><a href="{{ .URL }}">{{ .Title }}</a></li>
+			{{ range .Site.Params.menu }}
+			<li><a href="{{ .url}}">{{ .title }}</a></li>
 			{{ end }}
 		</ul>
 		{{- block "main" . }}{{- end }}

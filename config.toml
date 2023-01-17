@@ -3,138 +3,132 @@ languageCode = 'ja-jp'
 theme = "moemoe"
 title = '萌え萌えカンパニー'
 
-[menu]
-[[menu.main]]
+[params]
+[[params.menu]]
 identifier = 'company'
 title = 'Company'
 url = ''
-order = 0
 
-[[menu.main]]
+[[params.menu]]
 identifier = 'news'
 title = 'News'
 url = ''
-order = 1
 
-[[menu.main]]
+[[params.menu]]
 identifier = 'works'
 title = 'Works'
 url = '/works/'
-order = 2
 
-[[menu.main]]
+[[params.menu]]
 identifier = 'staff'
 title = 'Staff'
 url = '/staff/'
-order = 3
 
-[[menu.main]]
+[[params.menu]]
 identifier = 'contact'
 title = 'Contact'
 url = ''
-order = 4
 
-[params]
 [[params.staffs]]
-name = "だびで（オタク）"
+description = "創設者兼チーフ平社員オフィサー"
 icon = "/img/davide.jpg"
+name = "だびで（オタク）"
+role = "CHO"
 twitter = "https://twitter.com/Vern_rvSaki"
 website = "https://rnvneko.info/"
-role = "CHO"
-description = "創設者兼チーフ平社員オフィサー"
 
 [[params.staffs]]
-name = "p-hone（オタク）"
+description = "チーフツンデレオフィサー"
 icon = "/img/phone.png"
+name = "p-hone（オタク）"
+role = "CTO"
 twitter = "https://twitter.com/p__hone"
 website = "https://p-hone.info/"
-role = "CTO"
-description = "チーフツンデレオフィサー"
 
 [[params.staffs]]
-name = "佐倉（オタク）"
+description = "チーフ不良オフィサー"
 icon = "/img/sakura.jpg"
+name = "佐倉（オタク）"
+role = "CFO"
 twitter = "https://twitter.com/sakusakuunagi"
 website = "https://sakusakuunagi.hatenadiary.jp/"
-role = "CFO"
-description = "チーフ不良オフィサー"
 
 [[params.staffs]]
-name = "nemu"
+description = "チーフ先生オフィサー"
 icon = "/img/no_image.png"
+name = "nemu"
+role = "CSO"
 twitter = ""
 website = ""
-role = "CSO"
-description = "チーフ先生オフィサー"
 
 [[params.staffs]]
-name = "すばる（オタク）"
+description = "チーフエロゲオフィサー"
 icon = "/img/subaru.jpg"
+name = "すばる（オタク）"
+role = "CEO"
 twitter = "https://twitter.com/MUR_SBR"
 website = ""
-role = "CEO"
-description = "チーフエロゲオフィサー"
 
 [[params.staffs]]
-name = "ライン（オタク）"
+description = "チーフDJオフィサー"
 icon = "/img/line.png"
+name = "ライン（オタク）"
+role = "CDO"
 twitter = "https://twitter.com/parudo63"
 website = "https://note.com/parudo63/"
-role = "CDO"
-description = "チーフDJオフィサー"
 
 [[params.staffs]]
-name = "highland（オタク）"
+description = "チーフライターオフィサー"
 icon = "/img/highland.png"
+name = "highland（オタク）"
+role = "CWO"
 twitter = "https://twitter.com/highland_sh"
 website = "https://highland.hatenablog.com/"
-role = "CWO"
-description = "チーフライターオフィサー"
 
 [[params.staffs]]
-name = "園田うき"
+description = ""
 icon = "/img/ukitouchtypist.png"
+name = "園田うき"
+role = ""
 twitter = "https://twitter.com/ukitouchtypist"
 website = "http://www.ukitouchtypist.org/"
-role = ""
-description = ""
 
 [[params.staffs]]
-name = "ぽえむ"
+description = ""
 icon = "/img/no_image.png"
+name = "ぽえむ"
+role = ""
 twitter = "https://twitter.com/Z04Tk"
 website = ""
-role = ""
-description = ""
 
 [[params.staffs]]
-name = "チコビクトリー"
+description = ""
 icon = "/img/no_image.png"
+name = "チコビクトリー"
+role = ""
 twitter = "https://twitter.com/DBLFACE"
 website = ""
-role = ""
-description = ""
 
 [[params.staffs]]
-name = "ウニニニニードル"
+description = ""
 icon = "/img/no_image.png"
+name = "ウニニニニードル"
+role = ""
 twitter = "https://twitter.com/unininini_doru"
 website = ""
-role = ""
-description = ""
 
 [[params.staffs]]
-name = "wind"
+description = ""
 icon = "/img/no_image.png"
+name = "wind"
+role = ""
 twitter = "https://twitter.com/wind_0180"
 website = ""
-role = ""
-description = ""
 
 [[params.works]]
+author = ""
+date = "2022/08/13"
+description = "コロナ禍で時間を持て余したお絵描き初心者がDiscordを通じて画力を向上させていった記録を一冊の本にまとめました。"
+image = "/img/zeroe01.png"
 name = "ゼロから始めるお絵描きの書"
 url = "https://moemoecompany.booth.pm/items/4084008"
-date = "2022/08/13"
-author = ""
-image = "/img/zeroe01.png"
-description = "コロナ禍で時間を持て余したお絵描き初心者がDiscordを通じて画力を向上させていった記録を一冊の本にまとめました。"
