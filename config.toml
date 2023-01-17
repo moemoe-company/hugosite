@@ -8,26 +8,31 @@ title = '萌え萌えカンパニー'
 identifier = 'company'
 title = 'Company'
 url = ''
+order = 0
 
 [[menu.main]]
 identifier = 'news'
 title = 'News'
 url = ''
+order = 1
 
 [[menu.main]]
 identifier = 'works'
 title = 'Works'
 url = '/works/'
+order = 2
 
 [[menu.main]]
 identifier = 'staff'
 title = 'Staff'
 url = '/staff/'
+order = 3
 
 [[menu.main]]
 identifier = 'contact'
 title = 'Contact'
 url = ''
+order = 4
 
 [params]
 [[params.staffs]]
@@ -127,9 +132,9 @@ role = ""
 description = ""
 
 [[params.works]]
-name = "アニメタイトル表示くんべーた"
-url = "https://anime-title-kun.herokuapp.com/"
-date = "2021/06/27"
-author = "rnvneko"
-image = "/img/animetitle2.jpg"
-description = "西暦年とクールを指定するとその時期のアニメタイトルが羅列されるツールです。"
+name = "ゼロから始めるお絵描きの書"
+url = "https://moemoecompany.booth.pm/items/4084008"
+date = "2022/08/13"
+author = ""
+image = "/img/zeroe01.png"
+description = "コロナ禍で時間を持て余したお絵描き初心者がDiscordを通じて画力を向上させていった記録を一冊の本にまとめました。"

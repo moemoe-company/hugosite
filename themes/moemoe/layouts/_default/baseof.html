@@ -15,12 +15,12 @@
 	<div class="container">
 		<ul id="tab">
 			<li><a href="/"><img class="mainicon" src="/img/moemoecompany.png"></a></li>
-			{{ range .Site.Menus.main }}
+			{{ range sort .Site.Menus.main "order" "asc" }}
 			<li><a href="{{ .URL }}">{{ .Title }}</a></li>
 			{{ end }}
 		</ul>
 		{{- block "main" . }}{{- end }}
-	<footer>copyright 2020 moemoe-company</footer>
+		<footer>copyright 2020 moemoe-company</footer>
 	</div>
 
 </body>
