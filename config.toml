@@ -127,6 +127,14 @@ website = ""
 
 [[params.works]]
 author = ""
+date = "2022/12/31"
+description = "既刊の『ゼロから始めるお絵描きの書』ではページ数の関係で取り扱えなかった内容や補足的な内容を収録したフルカラー52ページのボリューム満点の一冊です。"
+image = "/img/works/zeroe02.jpg"
+name = "ゼロから始めるお絵描きの書＋"
+url = "https://moemoecompany.booth.pm/items/4483008"
+
+[[params.works]]
+author = ""
 date = "2022/08/13"
 description = "コロナ禍で時間を持て余したお絵描き初心者がDiscordを通じて画力を向上させていった記録を一冊の本にまとめました。"
 image = "/img/works/zeroe01.png"
