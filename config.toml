@@ -31,7 +31,7 @@ url = ''
 
 [[params.staffs]]
 description = "創設者兼チーフ平社員オフィサー"
-icon = "/img/davide.jpg"
+icon = "/img/works/davide.jpg"
 name = "だびで（オタク）"
 role = "CHO"
 twitter = "https://twitter.com/Vern_rvSaki"
@@ -39,7 +39,7 @@ website = "https://rnvneko.info/"
 
 [[params.staffs]]
 description = "チーフツンデレオフィサー"
-icon = "/img/phone.png"
+icon = "/img/works/phone.png"
 name = "p-hone（オタク）"
 role = "CTO"
 twitter = "https://twitter.com/p__hone"
@@ -47,7 +47,7 @@ website = "https://p-hone.info/"
 
 [[params.staffs]]
 description = "チーフ不良オフィサー"
-icon = "/img/sakura.jpg"
+icon = "/img/works/sakura.jpg"
 name = "佐倉（オタク）"
 role = "CFO"
 twitter = "https://twitter.com/sakusakuunagi"
@@ -55,7 +55,7 @@ website = "https://sakusakuunagi.hatenadiary.jp/"
 
 [[params.staffs]]
 description = "チーフ先生オフィサー"
-icon = "/img/no_image.png"
+icon = "/img/works/no_image.png"
 name = "nemu"
 role = "CSO"
 twitter = ""
@@ -63,7 +63,7 @@ website = ""
 
 [[params.staffs]]
 description = "チーフエロゲオフィサー"
-icon = "/img/subaru.jpg"
+icon = "/img/works/subaru.jpg"
 name = "すばる（オタク）"
 role = "CEO"
 twitter = "https://twitter.com/MUR_SBR"
@@ -71,7 +71,7 @@ website = ""
 
 [[params.staffs]]
 description = "チーフDJオフィサー"
-icon = "/img/line.png"
+icon = "/img/works/line.png"
 name = "ライン（オタク）"
 role = "CDO"
 twitter = "https://twitter.com/parudo63"
@@ -79,7 +79,7 @@ website = "https://note.com/parudo63/"
 
 [[params.staffs]]
 description = "チーフライターオフィサー"
-icon = "/img/highland.png"
+icon = "/img/works/highland.png"
 name = "highland（オタク）"
 role = "CWO"
 twitter = "https://twitter.com/highland_sh"
@@ -87,7 +87,7 @@ website = "https://highland.hatenablog.com/"
 
 [[params.staffs]]
 description = ""
-icon = "/img/ukitouchtypist.png"
+icon = "/img/works/ukitouchtypist.png"
 name = "園田うき"
 role = ""
 twitter = "https://twitter.com/ukitouchtypist"
@@ -95,7 +95,7 @@ website = "http://www.ukitouchtypist.org/"
 
 [[params.staffs]]
 description = ""
-icon = "/img/no_image.png"
+icon = "/img/works/no_image.png"
 name = "ぽえむ"
 role = ""
 twitter = "https://twitter.com/Z04Tk"
@@ -103,7 +103,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/no_image.png"
+icon = "/img/works/no_image.png"
 name = "チコビクトリー"
 role = ""
 twitter = "https://twitter.com/DBLFACE"
@@ -111,7 +111,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/no_image.png"
+icon = "/img/works/no_image.png"
 name = "ウニニニニードル"
 role = ""
 twitter = "https://twitter.com/unininini_doru"
@@ -119,7 +119,7 @@ website = ""
 
 [[params.staffs]]
 description = ""
-icon = "/img/no_image.png"
+icon = "/img/works/no_image.png"
 name = "wind"
 role = ""
 twitter = "https://twitter.com/wind_0180"
@@ -129,6 +129,78 @@ website = ""
 author = ""
 date = "2022/08/13"
 description = "コロナ禍で時間を持て余したお絵描き初心者がDiscordを通じて画力を向上させていった記録を一冊の本にまとめました。"
-image = "/img/zeroe01.png"
+image = "/img/works/zeroe01.png"
 name = "ゼロから始めるお絵描きの書"
 url = "https://moemoecompany.booth.pm/items/4084008"
+
+[[params.works]]
+author = "highland, p-hone, だびで"
+date = "2022/03/19"
+description = ""
+image = "/img/works/dochilove05_ura.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.5』フライヤー（裏）"
+url = "https://twipla.jp/events/503177"
+
+[[params.works]]
+author = "ライン, nemu, 佐倉"
+date = "2022/03/19"
+description = ""
+image = "/img/works/dochilove05.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.5』フライヤー"
+url = "https://twipla.jp/events/503177"
+
+[[params.works]]
+author = "p-hone, ライン, すばる"
+date = "2021/11/06"
+description = ""
+image = "/img/works/dochilove04.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.4』フライヤー"
+url = "https://twipla.jp/events/492089"
+
+[[params.works]]
+author = "p-hone, 佐倉, すばる"
+date = "2021/07/10"
+description = ""
+image = "/img/works/dochilove_spinoff.png"
+name = "アニソンクラブイベント『どちラブ! スピンオフ』フライヤー"
+url = "https://twipla.jp/events/454410"
+
+[[params.works]]
+author = "ライン, 佐倉, すばる"
+date = "2021/02/23"
+description = ""
+image = "/img/works/dochilove03.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.3』フライヤー"
+url = "https://twipla.jp/events/470591"
+
+[[params.works]]
+author = "だびで, p-hone"
+date = "2021/01/16"
+description = ""
+image = "/img/works/anipod02.jpg"
+name = "アニソンクラブイベント『アニPod こうりゅうせん!』フライヤー"
+url = "https://twitter.com/AniPoD_official/status/1350386794387234816"
+
+[[params.works]]
+author = "佐倉, すばる, p-hone"
+date = "2020/11/21"
+description = ""
+image = "/img/works/dochilove02.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.2』フライヤー"
+url = "https://twipla.jp/events/454410"
+
+[[params.works]]
+author = "だびで, p-hone"
+date = "2020/09/05"
+description = ""
+image = "/img/works/anipod01.jpg"
+name = "アニソンクラブイベント『アニPod』フライヤー"
+url = "https://twipla.jp/events/470591"
+
+[[params.works]]
+author = "佐倉, p-hone, だびで"
+date = "2020/08/22"
+description = ""
+image = "/img/works/dochilove01.jpg"
+name = "アニソンクラブイベント『どちラブ! Vol.1』フライヤー"
+url = "https://twipla.jp/events/454410"

@@ -1,14 +1,14 @@
 html {
- width: 100%;
- padding: 0;
- margin: 0;
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 
 body {
- width: 100%;
- padding: 0;
- margin: 0;
- background-color: #dbefff;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #dbefff;
 }
 
 p {
@@ -16,8 +16,8 @@ p {
 }
 
 footer {
- width: 100%;
- text-align: center;
+  width: 100%;
+  text-align: center;
 }
 
 img {
@@ -25,10 +25,10 @@ img {
 }
 
 .container {
- text-align: center;
- max-width: 800px;
- margin: 0 auto;
- text-shadow:2px 0 0 white;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  text-shadow: 2px 0 0 white;
 }
 
 .mainicon {
@@ -36,11 +36,11 @@ img {
   max-width: 150px;
 }
 
-.pretty{
- text-align: center;
- background-color: #FFF8FE;
- margin: 0;
- width: 100%;
+.pretty {
+  text-align: center;
+  background-color: #FFF8FE;
+  margin: 0;
+  width: 100%;
 }
 
 .backpict {
@@ -49,11 +49,11 @@ img {
 }
 
 #tab {
- width: 100%;
- list-style: none;
- overflow: hidden;
- margin: 0;
- padding: 0;
+  width: 100%;
+  list-style: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 #tab li {
@@ -64,7 +64,7 @@ img {
 }
 
 #tab li a {
-  font-size: 20px; 
+  font-size: 20px;
   text-decoration: none;
   color: #282e33;
   font-weight: bold;
@@ -72,11 +72,11 @@ img {
 }
 
 .box {
-align-items: center;
+  align-items: center;
 }
 
 .box-height {
-align-items: center;
+  align-items: center;
 }
 
 .staff-container {
@@ -85,9 +85,7 @@ align-items: center;
   background-color: white;
 }
 
-.staff-name-box {
-
-}
+.staff-name-box {}
 
 .sns-icon:hover {
   opacity: 0.6;
@@ -141,10 +139,15 @@ align-items: center;
   font-size: 1.5em;
 }
 
-.staff-role  {
+.staff-role {
   font-size: 1.5em;
 }
 
 .staff-description {
   font-size: 1.5em;
+}
+
+.subimg {
+  width: auto;
+  height: 200px;
 }
