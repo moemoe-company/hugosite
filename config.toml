@@ -86,10 +86,10 @@ twitter = "https://twitter.com/highland_sh"
 website = "https://highland.hatenablog.com/"
 
 [[params.staffs]]
-description = ""
+description = "チーフ百合オフィサー"
 icon = "/img/staff/ukitouchtypist.png"
-name = "園田うき"
-role = ""
+name = "園田うき（オタク）"
+role = "CYO"
 twitter = "https://twitter.com/ukitouchtypist"
 website = "http://www.ukitouchtypist.org/"
 
