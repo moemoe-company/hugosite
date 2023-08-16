@@ -27,7 +27,7 @@ url = '/staff/'
 [[params.menu]]
 identifier = 'contact'
 title = 'Contact'
-url = ''
+url = 'mailto:moemoekanpani@gmail.com'
 
 [[params.staffs]]
 description = "創設者兼チーフ平社員オフィサー"
